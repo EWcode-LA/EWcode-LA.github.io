@@ -1,20 +1,11 @@
 body {
-    /* Box-model */
-    padding: 20px;
-  
-    /* Positioning */
-    margin: 20px;
-    font-family: Georgia, "Times New Roman", Times, serif;
-  
-    /* Typography */
-    font-size: 50px;
-    line-height: 150%;
-    color: #333;
-  
-    /* Visual */
-    background: #cac9c1;
-  }
-  /* Add Header */
-  header {
-    background: #d21034;
-  }
+    background-color: rgba(0, 0, 255, 0.116);
+}
+
+h1 {
+
+}
+
+h2 {
+    text-align: 100px;
+}
